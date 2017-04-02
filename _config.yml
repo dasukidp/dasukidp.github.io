@@ -1,7 +1,7 @@
 # Site
 title:              Yumea
 bio:                '你好哇'
-description:        "西红柿很好吃，都给你吃"
+description:        "西红柿好吃，给你吃"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -50,7 +50,7 @@ instagram:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              76561198100455321
+steam:              pphome
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
